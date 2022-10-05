@@ -1,4 +1,5 @@
 # Lagos House Rent Prediction
+![alt text](https://github.com/TrailBlazersNG/Lagos-House-Rent-Prediction/blob/main/image3.jpg?raw=true)
 ### By Kehinde Olalekan, Babajide Alao, Onabanjo Micheal, Paul Adegbite, Innocent Alinta
 #### Statement of Purpose
 ##### Knowing the rate of inflation in the country at the moment, one needs to be well-informed or kept abreast of the rent prices of properties in various locations in Lagos state, Nigeria.With this project, the aim is to build a model that helps users to predict the rent price of properties in their chosen locations across Lagos State, Nigeria.
