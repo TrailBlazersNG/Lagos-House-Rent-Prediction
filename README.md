@@ -23,3 +23,5 @@
 - XGBoost for creating a gradient-boosted regression model.
 - Streamlit for creating a frontend application
 - Microsoft Excel For initial stage of data cleaning
+
+<a href="https://kennydgreat2-forecast-lagos-house-rent-app-s1d7x3.streamlitapp.com/" target="_blank">Visit the Web App here</a>
