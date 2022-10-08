@@ -30,4 +30,5 @@
 - Microsoft Excel For initial stage of data cleaning
 
 <a href="https://medium.com/@olalekan.kehinde83/lagos-house-rent-price-prediction-6f5df180c4c6" target="_blank">Read the project explanation here</a>
+
 <a href="https://kennydgreat2-forecast-lagos-house-rent-app-s1d7x3.streamlitapp.com/" target="_blank">Visit the House Rent App here</a>
